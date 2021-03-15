@@ -1,0 +1,3 @@
+function selectQueryManager(queryArray, db) {
+
+}

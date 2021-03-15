@@ -1,0 +1,3 @@
+function updateQueryManager(queryArray, db) {
+
+}
